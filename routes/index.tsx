@@ -8,6 +8,7 @@ export default function Home() {
         <title>Fresh App</title>
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
+        <h1>Hello Rich</h1>
         <img
           src="/logo.svg"
           class="w-32 h-32"
